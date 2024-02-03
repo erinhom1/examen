@@ -17,6 +17,7 @@ function getInput() {
     });
 }
 
+//////////////////////Menu
 function menu () {
     console.log("\nNFL ToDo's\n")
     console.log("(1) Lista de todos los pendientes (solo IDs)\n")
